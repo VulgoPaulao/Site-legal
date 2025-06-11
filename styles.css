@@ -5,18 +5,32 @@ body{
 }
 header{
     border-bottom: solid 2px rgb(105, 48, 128);
-    padding: 15px;
+    font-size: 20px;
 }
 
 section{
  background: rgb(105, 48, 128) ;
- padding-bottom: 90px;
- padding-top: 90px;
+ padding-bottom: 40px;
+ padding-top: 40px;
  display: flex;
  justify-content: center;
 
+
+
 }
 h1{
-
     color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+div{
+    margin-right: 135px;
+    margin-top: 170px;
+}
+
+p{
+ color:rgb(0, 0, 0);
+
+ font-size: 50px;
+ font-family: "Bebas Neue", sans-serif;
 }
