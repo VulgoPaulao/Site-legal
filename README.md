@@ -47,7 +47,7 @@ header{
 
 section{
  background: rgb(105, 48, 128) ;
- padding-bottom: 90px;
+ padding-bottom: 20px;
  padding-top: 90px;
  display: flex;
  justify-content: center;
