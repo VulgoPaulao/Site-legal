@@ -11,7 +11,7 @@
 
 
 <section>
-    <h1>Como jogar vôlei - 5 TÉCNICAS INFALÍVEISEis</h1>
+    <h1>Como jogar vôlei - 5 TÉCNICAS INFALÍVEIS</h1>
 
     <iframe width="1323" height="744" src="https://www.youtube.com/embed/sCIdye5f2Wg" title="Como jogar vôlei - 5 TÉCNICAS INFALÍVEIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
