@@ -56,6 +56,11 @@ h1{
 
     color: rgb(0, 0, 0);
 }
+h2{
+   margin-bottom: 230px;
 
+
+
+}
 
 
