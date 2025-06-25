@@ -27,6 +27,16 @@
      enquanto se evita que a bola toque o chão da própria quadra. A partida é dividida em sets, e vence quem ganhar três sets
 </h2>
 
+
+<h3>
+No voleibol, faltas são infrações às regras do jogo que resultam em perda de ponto e saque para a equipe adversária.
+ As faltas mais comuns incluem toques na rede
+ bola fora, quatro toques, dois toques consecutivos, falta de rotação, toque apoiado e invasão da quadra adversária
+
+
+
+</h3>
+
 </body>
 
 
@@ -59,6 +69,13 @@ h1{
 }
 h2{
    margin-bottom: 572px;
+
+
+
+}
+h3{
+  font-size: 20px;
+
 
 
 
