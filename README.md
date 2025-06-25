@@ -58,7 +58,7 @@ h1{
     color: rgb(0, 0, 0);
 }
 h2{
-   margin-bottom: 440px;
+   margin-bottom: 572px;
 
 
 
