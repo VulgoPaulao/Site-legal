@@ -6,6 +6,7 @@ body{
 header{
     border-bottom: solid 2px rgb(105, 48, 128);
     font-size: 20px;
+     font-family: "Bebas Neue", sans-serif;
 }
 
 section{
@@ -16,18 +17,20 @@ section{
  justify-content: center;
 
 
-
+  font-family: "Bebas Neue", sans-serif;
 }
 h1{
     margin-left:5px;
     color: rgb(0, 0, 0);
     font-size: 40px;
+     font-family: "Bebas Neue", sans-serif;
 }
 
 div{
     margin-right: 135px;
     margin-top: 90px; 
     margin-bottom: 2px;  
+     font-family: "Bebas Neue", sans-serif;
 }
 
 p{
@@ -35,17 +38,18 @@ p{
 
  font-size: 30px;
  font-family: "Bebas Neue", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 h2{
    font-size: 20px;
 
-
+ font-family: "Bebas Neue", sans-serif;
 
 }
 h3{
   font-size: 20px;
-
+ font-family: "Bebas Neue", sans-serif;
 
 
 
